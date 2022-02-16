@@ -1,0 +1,10 @@
+# backend : 
+pin 
+
+ui > 
+    input 
+    submit   => post/pin kam karega 
+    refresh  => get/gethosp
+    table 
+
+pkg >> axios
